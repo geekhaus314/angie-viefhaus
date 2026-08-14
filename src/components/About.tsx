@@ -29,9 +29,63 @@ export default function About() {
           <Reveal delay={100}>
             <div className="mt-8 space-y-5 text-sm leading-relaxed text-bone/65 sm:text-base">
               <p>
-                I spent my youth as a MySpace emo and my adulthood as a woman who stands very
-                still in forests. The music changed — I still listen to AFI, always AFI — but
-                the posture stayed the same: watch everything, touch nothing, feel it all anyway.
+                I photograph what nature looks like when it is whole: animals mid-thought,
+                forests holding their breath, the quiet harmony of things that belong to no one.
+                I believe in that harmony the way other people believe in scripture — purely,
+                maybe naively. I see what modern human society is doing to it, the noise and
+                machinery of a world that no longer remembers it is a guest here, and I refuse
+                to accept that disruption as the only way the story ends.
+              </p>
+              <p>
+                Every frame I take is a small act of conservation — a holding-still of a world
+                that already knows how to live. The wild moves toward its own nirvana, and each
+                road we cut through it pushes that stillness further away. I keep pointing my
+                lens at the path. Hoping no one builds a road over it.
+              </p>
+              <p>
+                I was born in 1977 in Dellwood, Missouri, and I was raised by the city's
+                failures. Riverview Gardens gave me a diploma; Coldwater Creek gave me the
+                thesis I've spent my life proving: Mallinckrodt Pharmaceuticals was paid to
+                dispose of several-gallon drums of nuclear waste, and they buried them under
+                the airport like a secret they expected the ground to keep. The drums busted.
+                The creek has glowed quietly in my memory ever since — poison wearing the face
+                of innocence, advancement in the shape of a checkbox. We caught crawdads in
+                that water. We played in it. We all did.
+              </p>
+              <p>
+                Progress is just the termites of a civilization — it hollows out the wood it
+                stands on, then insists it is the architecture. Every nation that chases it
+                eventually degrades into the very thing it tried to escape: a landfill with a
+                flag. I photograph the only system that isn't dying of its own success.
+              </p>
+              <p>
+                I believe the Industrial Revolution was when the world lost its innocence — not
+                its own, but the innocence of everything around it. Nature used to be able to
+                afford a kind of blissful ignorance: apathetically peaceful, indifferent to the
+                humans passing through, never once wondering if it was being measured for a
+                coffin. The smokestacks taught the trees to worry. Then warfare finished the
+                job — every war is just a rehearsal for the extinction of everything that never
+                signed up for it. And a worried forest isn't a forest anymore. It's a victim
+                practicing acceptance.
+              </p>
+              <p>
+                Honestly, nothing in the bloodline ever left the garden — an idea did. Around
+                the first great philosophies, someone decided the real world was somewhere else,
+                that the earth was just a shadow of it and we were its chosen residents. That
+                was the fall: not a fruit, not a species — a belief. Once reality lives
+                elsewhere, everything here quietly becomes a resource. The fences, the
+                factories, the wars, the drums buried under the airport — all of it just us
+                guarding a door to a place that doesn't exist, while the ground we came from
+                waits below, patient and unbothered.
+              </p>
+              <p>
+                Maybe that's why the unseen calls to me the way it does. I still carry the
+                innocent curiosity of someone who never accepted that the wild is a backdrop — a
+                burning need to stand before the unobserved, the unbothered, the places that
+                never got the memo they were scenery. It used to be everyone's inheritance. Now
+                you have to search for it, and most people stop looking early. The world
+                learned to look past nature; I never could unlearn the looking. Where other
+                people hear silence, I hear a conversation I'm late for.
               </p>
               <p>
                 I shoot birds, coyotes, and whatever is quietly becoming lunch. I don't bait. I
