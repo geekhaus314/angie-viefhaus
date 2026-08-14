@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c0709"/>
+      <stop offset="1" stop-color="#030303"/>
+    </linearGradient>
+    <linearGradient id="sil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="rgba(236,231,224,0.5)"/>
+      <stop offset="1" stop-color="rgba(236,231,224,0.12)"/>
+    </linearGradient>
+    <radialGradient id="emberGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9e1b32" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#9e1b32" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="800" height="600" fill="url(#bg)" opacity="0.4"/>
+  <circle cx="400" cy="240" r="120" fill="url(#emberGlow)" opacity="0.5"/>
+  
+  <rect x="0" y="440" width="800" height="60" fill="rgba(236,231,224,0.05)"/><rect x="0" y="520" width="800" height="50" fill="rgba(236,231,224,0.09)"/>
+  
+    <path d="M360 600 L360 430 C360 350 300 300 230 300 C210 265 240 240 270 250 C300 200 380 190 420 235 C470 190 540 200 560 255 C590 245 620 268 600 305 C540 310 490 350 480 430 L480 600 Z" fill="url(#sil)"/>
+  
+  <rect x="0" y="0" width="800" height="600" fill="none"/>
+</svg>

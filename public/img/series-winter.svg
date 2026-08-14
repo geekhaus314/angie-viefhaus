@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12171c"/>
+      <stop offset="1" stop-color="#06080a"/>
+    </linearGradient>
+    <linearGradient id="sil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="rgba(236,231,224,0.5)"/>
+      <stop offset="1" stop-color="rgba(236,231,224,0.12)"/>
+    </linearGradient>
+    <radialGradient id="emberGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9e1b32" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#9e1b32" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="800" height="600" fill="url(#bg)" opacity="0.4"/>
+  <circle cx="560" cy="150" r="70" fill="rgba(236,231,224,0.85)"/><circle cx="535" cy="135" r="12" fill="rgba(236,231,224,0.25)"/><circle cx="580" cy="165" r="8" fill="rgba(236,231,224,0.2)"/><circle cx="545" cy="185" r="5" fill="rgba(236,231,224,0.18)"/>
+  
+  <rect x="0" y="380" width="800" height="80" fill="rgba(236,231,224,0.08)"/><rect x="0" y="460" width="800" height="70" fill="rgba(236,231,224,0.12)"/>
+  
+    <path d="M330 600 L360 380 L345 380 L375 250 L365 250 L390 130 L415 250 L405 250 L435 380 L420 380 L450 600 Z" fill="url(#sil)"/>
+    <path d="M120 420 q150 40 300 0 t300 0" stroke="url(#sil)" stroke-width="14" fill="none" opacity="0.6"/>
+    <path d="M80 470 q170 50 340 0 t340 0" stroke="url(#sil)" stroke-width="10" fill="none" opacity="0.4"/>
+  
+  <rect x="0" y="0" width="800" height="600" fill="none"/>
+</svg>

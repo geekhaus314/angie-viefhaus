@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d100b"/>
+      <stop offset="1" stop-color="#060705"/>
+    </linearGradient>
+    <linearGradient id="sil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="rgba(236,231,224,0.5)"/>
+      <stop offset="1" stop-color="rgba(236,231,224,0.12)"/>
+    </linearGradient>
+    <radialGradient id="emberGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9e1b32" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#9e1b32" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="800" height="600" fill="url(#bg)" opacity="0.4"/>
+  
+  
+  
+  
+    <path d="M400 600 L392 330 L360 210 L390 220 L404 300 L418 220 L448 210 L416 330 L408 600 Z" fill="url(#sil)"/>
+    <path d="M404 300 C390 285 372 285 366 300 C362 315 380 325 404 330" fill="url(#sil)"/>
+    <path d="M404 300 C418 285 436 285 442 300 C446 315 428 325 404 330" fill="url(#sil)"/>
+  
+  <rect x="0" y="0" width="800" height="600" fill="none"/>
+</svg>

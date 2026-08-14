@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1114"/>
+      <stop offset="1" stop-color="#05080a"/>
+    </linearGradient>
+    <linearGradient id="sil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="rgba(236,231,224,0.5)"/>
+      <stop offset="1" stop-color="rgba(236,231,224,0.12)"/>
+    </linearGradient>
+    <radialGradient id="emberGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9e1b32" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#9e1b32" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="800" height="600" fill="url(#bg)" opacity="0.4"/>
+  
+  
+  <rect x="0" y="450" width="800" height="55" fill="rgba(236,231,224,0.08)"/>
+  
+    <path d="M120 330 C 220 200, 560 190, 690 300 C 560 250, 300 250, 120 330 Z" fill="url(#sil)"/>
+    <path d="M150 360 C 240 250, 530 240, 660 330 C 530 290, 320 290, 150 360 Z" fill="url(#sil)" opacity="0.55"/>
+  
+  <rect x="0" y="0" width="800" height="600" fill="none"/>
+</svg>
