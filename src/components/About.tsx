@@ -43,14 +43,19 @@ export default function About() {
                 lens at the path. Hoping no one builds a road over it.
               </p>
               <p>
-                I was born in 1977 in Dellwood, Missouri, and I was raised by the city's
-                failures. Riverview Gardens gave me a diploma; Coldwater Creek gave me the
-                thesis I've spent my life proving: Mallinckrodt Pharmaceuticals was paid to
-                dispose of several-gallon drums of nuclear waste, and they buried them under
-                the airport like a secret they expected the ground to keep. The drums busted.
-                The creek has glowed quietly in my memory ever since — poison wearing the face
-                of innocence, advancement in the shape of a checkbox. We caught crawdads in
-                that water. We played in it. We all did.
+                I was born in 1977 in Dellwood, Missouri — and North County back then was a
+                different place entirely. My street was full of kids, mine and everyone else's,
+                the whole neighborhood practically a family. Riverview Gardens gave me a
+                diploma, and the fields and creeks around town gave me the rest — years spent
+                exploring, turning over rocks for crawdads, staying out until the streetlights
+                came on. Simple, and I wouldn't trade a second of it.
+              </p>
+              <p>
+                I've always been on the shy side — quiet by default, a little antisocial in the
+                gentlest way, not lonely, just selective. I never needed a crowd, which is
+                probably how the wild got to know me. But don't mistake the quiet for sadness.
+                I'm an optimist. I believe the world can be whole again; I just say it with my
+                eyes on the horizon instead of my mouth.
               </p>
               <p>
                 Progress is just the termites of a civilization — it hollows out the wood it
@@ -74,7 +79,7 @@ export default function About() {
                 that the earth was just a shadow of it and we were its chosen residents. That
                 was the fall: not a fruit, not a species — a belief. Once reality lives
                 elsewhere, everything here quietly becomes a resource. The fences, the
-                factories, the wars, the drums buried under the airport — all of it just us
+                factories, the wars — all of it just us
                 guarding a door to a place that doesn't exist, while the ground we came from
                 waits below, patient and unbothered.
               </p>
