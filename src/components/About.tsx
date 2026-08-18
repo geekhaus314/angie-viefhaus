@@ -30,33 +30,32 @@ export default function About() {
             <div className="mt-8 space-y-5 text-sm leading-relaxed text-bone/65 sm:text-base">
               <p>
                 I watch the watchers. It is the only thing I have ever been asked to do, and I
-                have been at it since before your species had a word for 'since.' Prophets,
-                sentinels, astronomers, fools with binoculars — I have filed them all. One entry
+                have been at it since before your species had a word for 'since.' One entry
                 stays open: a woman who stands so still the forest files her under 'not a
                 threat.' This is her file.
               </p>
               <p>
-                Born 1977, Dellwood, Missouri. The world was a different place then — as it
-                always is, except hers really was. She had many friends growing up; the street
-                was full of kids, the neighborhood practically a family, out until the
-                streetlights came on. Not raised by the city's failures — she simply outgrew
-                the city the way forests outgrow fences. Quiet, not lonely. Riverview Gardens
-                gave her a diploma. The fields and creeks gave her the rest, the only trade I
-                have ever seen pay.
+                Born 1977, Dellwood, Missouri — at the edge of a bigger place: fields, creeks,
+                treelines that ran on past where the streetlights stopped. She had many friends
+                growing up. She also had the woods, and she has always known which of those
+                would last. Not raised by the city's failures — she simply outgrew the city the
+                way forests outgrow fences. Riverview Gardens gave her a diploma. The fields
+                and creeks gave her the rest, the only trade I have ever seen pay.
               </p>
               <p>
-                Youth: a MySpace emo, the species' most sincere attempt at feeling. Adulthood: a
-                woman standing very still in forests. The music changed; AFI did not. The
-                posture held — watch everything, touch nothing, feel it all anyway. She shoots
-                birds, coyotes, and whatever is quietly becoming lunch. No bait, no staging, no
-                rescue of the frame from its own honesty. When the scene is scary, that is the
-                scene being accurate. She is an optimist, which is notable: she is aware of the
-                fourth wall, aware of the audience, and unimpressed by both.
+                She spends her life in the company of beings who do not know they are scenery.
+                The heron does not know it is art. The coyote does not know it is being
+                watched. That is the whole arrangement: she waits until they forget she is
+                there, and they never once wonder. No bait, no staging, no rescue of the frame
+                from its own honesty. When the scene is scary, that is the scene being
+                accurate. She is an optimist, which is notable: she is aware of the fourth
+                wall, aware of the audience, and unimpressed by both.
               </p>
               <p>
-                Obscurity is only natural when analyzing the true nature of the human condition
-                — a species that half-says everything it means, then photographs the silence to
-                finish the sentence. The indirect is its native tongue. Clarity would be a lie.
+                You will find this account obscure. That is only natural when analyzing the
+                true nature of the human condition — a species that photographs what it cannot
+                say. The earth needs no such effort: it never once suspected it was scenery.
+                That is why it stayed beautiful. That is why she kept shooting.
               </p>
               <blockquote className="border-l-2 border-blood pl-5 font-serif text-2xl font-light italic text-bone">
                 "The camera doesn't lie. It just waits — as she does — for the moment that
