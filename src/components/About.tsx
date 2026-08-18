@@ -36,12 +36,13 @@ export default function About() {
                 so still the forest files her under 'not a threat.' This is her file. I keep it.
               </p>
               <p>
-                She was born in 1977 in Dellwood, Missouri, into a species that mistakes noise
-                for progress, and she declined to inherit the mistake. Not raised by the city's
-                failures — she simply outgrew the city the way forests outgrow fences. Quiet by
-                default, selective by nature; not lonely, just done with the conversation before
-                it started. Riverview Gardens gave her a diploma. The fields and creeks gave her
-                the rest — the only trade I have ever seen pay.
+                She was born in 1977 in Dellwood, Missouri. The world was a different place
+                then — as it is in every year, except hers really was. She had many friends
+                growing up, the whole neighborhood practically a family, the street full of
+                kids until the streetlights came on. Not raised by the city's failures — she
+                simply outgrew the city the way forests outgrow fences. Quiet, yes. Lonely,
+                never. Riverview Gardens gave her a diploma. The fields and creeks gave her the
+                rest — the only trade I have ever seen pay.
               </p>
               <p>
                 Her youth was a MySpace emo — the species' most sincere attempt at feeling — and
@@ -49,7 +50,16 @@ export default function About() {
                 did not. The posture held: watch everything, touch nothing, feel it all anyway.
                 She shoots birds, coyotes, and whatever is quietly becoming lunch. No bait. No
                 staging. She does not rescue the frame from its own honesty. When the scene is
-                scary, that is the scene being accurate.
+                scary, that is the scene being accurate. She is fairly optimistic — remarkable,
+                for a creature who knows she is being narrated. She noticed the fourth wall the
+                way other people notice weather, and went on being sunny anyway.
+              </p>
+              <p>
+                You will find this account obscure. That is only natural. Obscurity is the
+                native language of the human condition — a species that spends its whole life
+                half-saying what it means, then photographs the silence to say it properly. I
+                am analyzing the true nature of the thing, and the thing's nature is indirect.
+                Clarity would be a betrayal.
               </p>
               <blockquote className="border-l-2 border-blood pl-5 font-serif text-2xl font-light italic text-bone">
                 "The camera doesn't lie. It just waits — as she does — for the moment that
