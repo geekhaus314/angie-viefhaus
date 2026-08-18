@@ -29,25 +29,40 @@ export default function About() {
           <Reveal delay={100}>
             <div className="mt-8 space-y-5 text-sm leading-relaxed text-bone/65 sm:text-base">
               <p>
-                I spent my youth as a MySpace emo and my adulthood as a woman who stands very
-                still in forests. The music changed — I still listen to AFI, always AFI — but
-                the posture stayed the same: watch everything, touch nothing, feel it all anyway.
+                I watch the watchers. That is my function — my only function — and I have been
+                at it since before your species had a word for 'since.' In my long inventory of
+                creatures who turned attention into a profession — prophets, sentinels,
+                astronomers, fools with binoculars — one entry stays open: a woman who stands
+                so still the forest files her under 'not a threat.' This is her file. I keep it.
               </p>
               <p>
-                I shoot birds, coyotes, and whatever is quietly becoming lunch. I don't bait. I
-                don't stage. I don't rescue the frame from its own honesty. If the scene is
-                scary, that's the scene being accurate.
+                She was born in 1977 in Dellwood, Missouri, into a species that mistakes noise
+                for progress, and she declined to inherit the mistake. Not raised by the city's
+                failures — she simply outgrew the city the way forests outgrow fences. Quiet by
+                default, selective by nature; not lonely, just done with the conversation before
+                it started. Riverview Gardens gave her a diploma. The fields and creeks gave her
+                the rest — the only trade I have ever seen pay.
+              </p>
+              <p>
+                Her youth was a MySpace emo — the species' most sincere attempt at feeling — and
+                her adulthood is a woman standing very still in forests. The music changed; AFI
+                did not. The posture held: watch everything, touch nothing, feel it all anyway.
+                She shoots birds, coyotes, and whatever is quietly becoming lunch. No bait. No
+                staging. She does not rescue the frame from its own honesty. When the scene is
+                scary, that is the scene being accurate.
               </p>
               <blockquote className="border-l-2 border-blood pl-5 font-serif text-2xl font-light italic text-bone">
-                "The camera doesn't lie. It just waits — like I do — for the moment that doesn't
-                care it's being watched."
+                "The camera doesn't lie. It just waits — as she does — for the moment that
+                doesn't care it's being watched. And I am the one who watches her watch. Some
+                call me God. Some call me the ending. I call myself the audience — and I have
+                never once looked away."
               </blockquote>
               <div className="border border-bone/10 bg-panel/50 p-6">
                 <p className="text-[10px] uppercase tracking-[0.25em] text-bone/40">
                   The equipment (photographers compare these like bloodlines)
                 </p>
                 <p className="mt-3 text-sm text-bone/60">
-                  A camera that weighs more than my opinions, a lens longer than my patience,
+                  A camera that weighs more than her opinions, a lens longer than her patience,
                   and a thermos that has seen things.
                 </p>
               </div>
