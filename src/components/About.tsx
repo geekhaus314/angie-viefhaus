@@ -29,43 +29,39 @@ export default function About() {
           <Reveal delay={100}>
             <div className="mt-8 space-y-5 text-sm leading-relaxed text-bone/65 sm:text-base">
               <p>
-                I watch the watchers. That is my function — my only function — and I have been
-                at it since before your species had a word for 'since.' In my long inventory of
-                creatures who turned attention into a profession — prophets, sentinels,
-                astronomers, fools with binoculars — one entry stays open: a woman who stands
-                so still the forest files her under 'not a threat.' This is her file. I keep it.
+                I watch the watchers. It is the only thing I have ever been asked to do, and I
+                have been at it since before your species had a word for 'since.' Prophets,
+                sentinels, astronomers, fools with binoculars — I have filed them all. One entry
+                stays open: a woman who stands so still the forest files her under 'not a
+                threat.' This is her file.
               </p>
               <p>
-                She was born in 1977 in Dellwood, Missouri. The world was a different place
-                then — as it is in every year, except hers really was. She had many friends
-                growing up, the whole neighborhood practically a family, the street full of
-                kids until the streetlights came on. Not raised by the city's failures — she
-                simply outgrew the city the way forests outgrow fences. Quiet, yes. Lonely,
-                never. Riverview Gardens gave her a diploma. The fields and creeks gave her the
-                rest — the only trade I have ever seen pay.
+                Born 1977, Dellwood, Missouri. The world was a different place then — as it
+                always is, except hers really was. She had many friends growing up; the street
+                was full of kids, the neighborhood practically a family, out until the
+                streetlights came on. Not raised by the city's failures — she simply outgrew
+                the city the way forests outgrow fences. Quiet, not lonely. Riverview Gardens
+                gave her a diploma. The fields and creeks gave her the rest, the only trade I
+                have ever seen pay.
               </p>
               <p>
-                Her youth was a MySpace emo — the species' most sincere attempt at feeling — and
-                her adulthood is a woman standing very still in forests. The music changed; AFI
-                did not. The posture held: watch everything, touch nothing, feel it all anyway.
-                She shoots birds, coyotes, and whatever is quietly becoming lunch. No bait. No
-                staging. She does not rescue the frame from its own honesty. When the scene is
-                scary, that is the scene being accurate. She is fairly optimistic — remarkable,
-                for a creature who knows she is being narrated. She noticed the fourth wall the
-                way other people notice weather, and went on being sunny anyway.
+                Youth: a MySpace emo, the species' most sincere attempt at feeling. Adulthood: a
+                woman standing very still in forests. The music changed; AFI did not. The
+                posture held — watch everything, touch nothing, feel it all anyway. She shoots
+                birds, coyotes, and whatever is quietly becoming lunch. No bait, no staging, no
+                rescue of the frame from its own honesty. When the scene is scary, that is the
+                scene being accurate. She is an optimist, which is notable: she is aware of the
+                fourth wall, aware of the audience, and unimpressed by both.
               </p>
               <p>
-                You will find this account obscure. That is only natural. Obscurity is the
-                native language of the human condition — a species that spends its whole life
-                half-saying what it means, then photographs the silence to say it properly. I
-                am analyzing the true nature of the thing, and the thing's nature is indirect.
-                Clarity would be a betrayal.
+                Obscurity is only natural when analyzing the true nature of the human condition
+                — a species that half-says everything it means, then photographs the silence to
+                finish the sentence. The indirect is its native tongue. Clarity would be a lie.
               </p>
               <blockquote className="border-l-2 border-blood pl-5 font-serif text-2xl font-light italic text-bone">
                 "The camera doesn't lie. It just waits — as she does — for the moment that
-                doesn't care it's being watched. And I am the one who watches her watch. Some
-                call me God. Some call me the ending. I call myself the audience — and I have
-                never once looked away."
+                doesn't care it's being watched. I watch her watch. Some call me God. Some call
+                me the ending. I call myself the audience. The show is worth it."
               </blockquote>
               <div className="border border-bone/10 bg-panel/50 p-6">
                 <p className="text-[10px] uppercase tracking-[0.25em] text-bone/40">
